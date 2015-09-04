@@ -1,0 +1,23 @@
+{
+  "name": "jq-metro",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mvalipour/jq-metro",
+  "authors": [
+    "mo valipour <valipour@gmail.com>"
+  ],
+  "description": "a jQuery plugin for metro UI controls",
+  "main": "dist/jquery.metro.js",
+  "keywords": [
+    "jquery",
+    "metro",
+    "windows-phone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
