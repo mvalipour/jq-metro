@@ -1,3 +1,3 @@
 #jq-metro
 
-jQuery plugin for metro UI controls
+a jQuery plugin for metro UI controls
